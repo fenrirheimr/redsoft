@@ -1,7 +1,7 @@
 {
-  "name": "fenrirheimr.ru",
+  "name": "Test for RedSoft",
   "version": "0.0.1",
-  "description": "Portfolio of Vladimir Glushkov",
+  "description": "Test for RedSoft",
   "author": "Vladimir Glushkov <xhtmlblog@gmail.com>",
   "dependencies": {
     "browser-sync": "2.26.3",
@@ -30,11 +30,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fenrirheimr/fenrirheimr.github.io.git"
+    "url": "git+https://github.com/fenrirheimr/redsoft.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fenrirheimr/fenrirheimr.github.io/issues"
+    "url": "https://github.com/fenrirheimr/redsoft/issues"
   },
-  "homepage": "http://fenrirheimr.ru"
+  "homepage": "http://fenrirheimr.ru/redsoft/"
 }

@@ -2,4 +2,4 @@
 
 
 
-[Дневник здоровья](http://fenrirheimr.ru/redsoft/)
+[Дневник здоровья](http://fenrirheimr.ru/redsoft/) (demo)
